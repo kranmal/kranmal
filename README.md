@@ -4,22 +4,35 @@
 <p align="center"><sub>Banner art by Kirokaze</sub></p>
 
 ## 📌 About Me
+- 🧪 QA Engineer / Vibe Coder
 - 💡 I build small, useful tools: web apps, Claude Code agent teams, and the odd game.
 - 🌐 Projects hub: [kranmal.github.io](https://kranmal.github.io)
 
-## 🚀 Featured Projects
+## 🚀 Projects
+
+### 🌍 Web apps
 | Project | What it does | Try it |
 |---|---|---|
 | **[Market Pulse](https://github.com/kranmal/market-pulse)** | Live worldwide stock & crypto news aggregator | [Open](https://kranmal.github.io/market-pulse/) |
-| **[Footlore](https://github.com/kranmal/footlore)** | A pocket tour guide that reads the ground you're standing on | [Open](https://kranmal.github.io/footlore/) |
-| **[Lendly](https://github.com/kranmal/lendly)** | Expo / React Native app, also running on the web | [Open](https://kranmal.github.io/lendly/) |
+| **[Footlore](https://github.com/kranmal/footlore)** | A pocket tour guide that reads the ground you're standing on: nearby sights, one sourced sentence each | [Open](https://kranmal.github.io/footlore/) |
+| **[Lendly](https://github.com/kranmal/lendly)** | Expo / React Native app that also runs on the web | [Open](https://kranmal.github.io/lendly/) |
 | **[RateDrift](https://github.com/kranmal/ratedrift)** | Track savings bonus expiries and fixed-bond maturities, and check FSCS cover | [Open](https://kranmal.github.io/ratedrift/) |
-| **[PrettyCSV](https://github.com/kranmal/PrettyCSV)** | Turn any CSV into a pretty table. Exports JSON, Excel and Zephyr Scale | [Open](https://kranmal.github.io/PrettyCSV/) |
+| **[PrettyCSV](https://github.com/kranmal/PrettyCSV)** | Turn any CSV into a pretty, formatted table. Exports JSON, Excel and Zephyr Scale | [Open](https://kranmal.github.io/PrettyCSV/) |
+| **[Aurora Drift](https://github.com/kranmal/aurora-drift)** | A synthwave-neon arcade shooter that runs entirely in the browser | [Play](https://kranmal.github.io/aurora-drift/) |
+| **[kranmal.github.io](https://github.com/kranmal/kranmal.github.io)** | The hand-written hub page that links out to all my projects | [Open](https://kranmal.github.io) |
 
 ### 🤖 Claude Code agent teams
-- **[perf-agent-team](https://github.com/kranmal/perf-agent-team)**: strategy PDF first, then k6 and Playwright tests, results PDF and a local dashboard
-- **[qa-agent-team](https://github.com/kranmal/qa-agent-team)**: agents that write, run and report on Playwright, API and accessibility tests
-- **[agent-hub](https://github.com/kranmal/agent-hub)**: one local web page for the Perf team, QA team and Pretty CSV
+| Project | What it does |
+|---|---|
+| **[qa-agent-team](https://github.com/kranmal/qa-agent-team)** | Five agents plus a skill that plan, write, run and report on a full QA suite: Playwright, API, Vitest, accessibility, Zephyr Scale manual tests and PDF reports |
+| **[perf-agent-team](https://github.com/kranmal/perf-agent-team)** | Performance testing: strategy PDF first, then k6 and Playwright tests, results PDF and a local dashboard |
+| **[agent-hub](https://github.com/kranmal/agent-hub)** | One local web page for the Perf Agent Team, QA Agent Team and Pretty CSV |
+
+### ⚙️ Automation
+| Project | What it does |
+|---|---|
+| **[trading-bot](https://github.com/kranmal/trading-bot)** | SPY trend bot with an LLM news filter that gates each entry; paper trading only |
+| **[twitter-moderator-dashboard](https://github.com/kranmal/twitter-moderator-dashboard)** | Read-only viewer for the X/Twitter moderation review queue |
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
